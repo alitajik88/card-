@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.cards{
+    display: flex;
+}
+
+.cards .card{
+    box-shadow: 0 0 4px black;
+    margin: 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+
+.boxes .box h2{
+    margin-bottom: 15px;
+}
+
+.cards .card p{
+    margin-bottom: 15px;
+}
+
+.cards .card a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: darkslategray;
+    padding: 10px 20px;
+    color: white;
+}
+
+
